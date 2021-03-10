@@ -1,0 +1,170 @@
+
+
+How much glass do we need?
+
+
+
+
+
+For a tower
+-----------------------------------------------------
+
+Let's say 1 tower per month.
+
+
+
+
+{
+  Compared to tallest TV mast on Earth
+
+  The total weight of steel in the tower is 864 500 pounds.
+  Height is 629 meters
+  Our tower height is 400
+  400 / 629 == 0.63
+  864500 pounds == 393000 kg
+  393000 * 0.63 * (1/6) ==  40000 kg
+}
+
+
+  SO ... ( 4e4 kg / tower ) * (3e6 watt-seconds / kg )
+
+      == 12e10 watt-seconds / tower
+
+        == 1.2e11 watt-seconds / tower
+
+        120000000000 / ( 1200 watts / m^2 of mirror )
+
+
+        == 100000000 m^2-seconds / tower
+
+
+        100000000 m^2-seconds / tower  / ( 30 * 24 * 3600 seconds/month )
+
+
+        == 38 m^2 to get a tower per month
+
+
+
+
+
+For the solar panels
+------------------------------------------------------
+
+Let's say we want to populate that tower in the same month,
+and that the panels are 2 mm thick
+
+Assume efficiency of 20%
+
+Can we get 1 MW per tower ??
+
+   1000000 / 1361 ==  734 square meters
+
+     * 5 == 3673 square meters.
+
+     But this is going to be a cylinder with fall-off because of angle,
+
+     so round up to 5000 square meters.
+
+
+     That is the cross-section of the cylinder.
+
+       So if we use just the top 100 meters of tower,
+
+        The cylinder is 50 meters wide!
+
+           Excellent !
+
+
+        circumference is 50 * 3.1415 == 157 m
+
+           157 * 100 ==    15700 call it 16000 square meters
+
+           16000 m^2 * 0.002 m == 32 m^3 
+
+             * 3e6 g / m^3 == 1e8 g / tower == 110 tons
+
+             but with lunar gravity feels like:
+
+                18 tons !!      easy
+
+
+
+         But -- now the total glass for a tower is:
+
+           
+                4e4 kg for the tower
+
+                1e5 kg for the panels 
+
+                round up:
+
+                  1.5e5 kg  total glass for a megawatt tower
+
+              
+
+          1.5e5 kg   *   3e6 watt-seconds / kg
+
+          4.5e11 watt-seconds / tower
+
+            ( 450000000000 watt-seconds / tower ) / ( 1200 watts / m^2 mirror )
+
+
+          == 375000000 m^2-seconds / tower
+
+          seconds per month : 2635200.0
+
+          Ah! But I don't get continuous sun for mirrors.
+
+             Let's say 70%
+
+          2635200.0  * 0.7 == 1844640
+
+          so    ( 375000000 m^2-seconds / tower ) / ( 1844640 seconds/month)
+
+          203 square meters of mirror needed to make all glass for 
+          1 megawatt-tower per month.
+
+
+          So we only have to vapor-deposit 200 square meters
+
+
+          Screw this.
+
+          We should just use electricity and microwaves -- 
+            
+            and skip the whole vapor-deposition thing.
+
+
+              Just electricity and microwaves.
+
+
+              And batteries for the night.
+
+              Silver oxide !
+
+
+                 130 Wh / kg
+
+                 500 Wh / liter
+
+              A kiloWatt-hour for every 8 kg !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
