@@ -1,0 +1,71 @@
+
+Note: Circumpolar Power Fence
+-------------------------------------
+
+OK:
+
+     1 degree         1.25
+
+     2 degrees        2.25
+
+     5 degrees        6.5
+
+   So total powerwalls for 1 pole == 10 GW
+
+
+  Total for both poles is 20.
+
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+At 5 degrees from the pole, a quarter-circle,
+measured with LROC
+  https://quickmap.lroc.asu.edu
+
+is 236 km.
+
+  So the whole circumference is 236 * 4 == 944 km
+
+Oh, let's put it a teensy bit south or 85 degrees,
+and make it 1000 km.
+
+Put a power wall there -- 100 meters tall.
+So, total area of 100 km2
+
+How much power?
+
+  At about 15% efficiency, 
+  figure 200 W / m2 == 200 MW / km2
+
+    100 km2 total area means 30 km2 illuminated (approx)
+
+    so total power generation is 6 GW
+
+
+==========================================
+
+  At 2 degrees, it is 94 km * 4 == 376 km
+
+    == 37.6 km2
+
+    == 7 GigaWatts
+
+    / 3 ==     2.25 GW
+
+==========================================
+
+  At 1 degree it is 47 km
+
+      * 4 == 188
+
+      == 18.8 km2
+
+      == 3.76 GigaWatts
+
+      / 3 == 1.25
+
+
+

@@ -1,0 +1,51 @@
+
+Magnetoplasmadynamic Thrust
+----------------------------------------
+
+For a 50-ton payload and a 10-ton thruster,
+how hard will 5000 N accelerate it?
+
+       (5000 (kg m)/s2 )  /  60000 kg
+
+    == 0.833 m/s2
+
+It is 1.3 km/sec EML to Geo, so, how many seconds?
+
+           ( 1300 m/s ) / ( 0.833 m/s2 )
+
+        ==  1561 seconds.
+
+   How far?
+
+           1561 s * 650 m/s == 1014650 m
+
+        ==  1015 km
+
+   So actually, I could get away with much less!
+
+      
+       (2000 (kg m)/s2 )  /  60000 kg
+
+    == 0.333 m/s2
+
+           ( 1300 m/s ) / ( 0.333 m/s2 )
+
+        == 3903 seconds
+
+        3903 s * 650 m/s == 2536950 m
+
+        ==  2537 km
+
+      excellent.  We only can keep the beam focused 
+      over a distance of 2500 km, and thus only need
+      2000 Newtons == 40 MegaWatts.
+
+
+  So 1 gigawatt orbital can simultaneusly power 25 
+  fully loaded tugs!
+   
+       == 1250 tons payload.
+
+  And can send that many *per hour* !
+
+
